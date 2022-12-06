@@ -33,3 +33,5 @@ Usage: aoc -d <puzzle_name>
 -a, --all     Run all puzzle solutions
 -h, --help    Displays this usage information
 ```
+
+[1]: https://adventofcode.com/2022
